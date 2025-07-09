@@ -1,5 +1,5 @@
-<h1 align="center">Ave Ave 👋, I'm Aristide</h1>
-<h3 align="center">A software developer from Rwanda</h3>
+<h1 align="center">Hey👋, I'm Aristide</h1>
+<h3 align="center">A Mobile developer from Rwanda</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uyisaristide&label=Profile%20views&color=0e75b6&style=flat" alt="uyisaristide" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Freshmeals](https://github.com/uyisaristide/lazaApp-1.git)
+- 🔭 I’m currently working on [Tarama App]([https://github.com/uyisaristide/Tarama-mobile.git))
 
-- 👨‍💻 All of my projects are available at [https://github.com/uyisaristide]([https://github.com/uyisaristide](https://github.com/uyisaristide/freshmeals))
+- 👨‍💻 All of my projects are available at [https://github.com/uyisaristide]([https://github.com/uyisaristide](https://github.com/uyisaristide))
 
 - 💬 Ask me about **dart, flutter**
 
